@@ -4,7 +4,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java, Vue.js, Django and AI
-- 👯 I’m looking to collaborate on web devlopment
+- 👯 I’m looking to collaborate on web development
 - 💬 Ask me about python, gameAIsdk and web
 - 📫 How to reach me(wechatId): abcdefgccccccc
 - 😄 Pronouns: ...
