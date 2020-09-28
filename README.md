@@ -1,7 +1,5 @@
-aa
 <img align="right" alt="GIF" src="https://github.com/huanhuan18/huanhuan18/blob/master/pic/pusheencode.gif" />
 
-bb
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
@@ -33,6 +31,7 @@ bb
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 
 </p>
+![github stats](https://github-readme-stats.vercel.app/api?username=huanhuan18&show_icons=true)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
