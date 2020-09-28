@@ -1,5 +1,7 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/huanhuan18/huanhuan18/master/pic/pusheencode.gif" />
+aa
+<img align="right" alt="GIF" src="https://github.com/huanhuan18/huanhuan18/blob/master/pic/pusheencode.gif" />
 
+bb
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
