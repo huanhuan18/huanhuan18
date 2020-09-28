@@ -1,4 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/huanhuan18/huanhuan18/blob/master/pic/pusheencode.gif" />
+
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java, Vue.js, Django and AI
