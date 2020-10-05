@@ -1,13 +1,11 @@
 <img align="right" alt="GIF" src="https://github.com/huanhuan18/huanhuan18/blob/master/pic/pusheencode.gif" />
 
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on HuaWei
 - 🌱 I’m currently learning Java, Vue.js, Django and AI
 - 👯 I’m looking to collaborate on web development
 - 💬 Ask me about python, gameAIsdk and web
-- 📫 How to reach me(wechatId): abcdefgccccccc
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me(wechatID): abcdefgccccccc
 
 
 </br>
